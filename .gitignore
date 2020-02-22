@@ -50,3 +50,14 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# CodeBlocks files
+*.cbp
+*.cscope_file_list
+*.depend
+*.layout
+/obj
+/bin
+
+# Windows file
+*.db
